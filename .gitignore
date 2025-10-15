@@ -15,6 +15,7 @@ __pycache__/
 # Ignore virtual environments
 venv/
 env/
+.venv/
 
 # Ignore execution-generated folders
 vector_db/
@@ -37,3 +38,4 @@ vector_db/
 
 # Optional: Ignore notebook outputs (if you want cleaner diffs)
 # You could consider using a Jupyter-specific pre-commit hook instead
+LangraphLearning/.env
